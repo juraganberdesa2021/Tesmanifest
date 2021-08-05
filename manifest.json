@@ -1,0 +1,39 @@
+{
+  "name": "Juragan Desa",
+  "short_name": "Juraganberdesa",
+  "scope": "https://juraganberdesa.blogspot.com/",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas seputar Desa, PKH, Sosial Budaya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-f_rINkspcqU/YQxH40Y1q8I/AAAAAAAAJOA/KdpgN-wmnjUSgzCgsBGo0Muas2tq0nwDgCLcBGAsYHQ/s51/Juragan%2BDesa%2BLogo%2BFix-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-f_rINkspcqU/YQxH40Y1q8I/AAAAAAAAJOA/KdpgN-wmnjUSgzCgsBGo0Muas2tq0nwDgCLcBGAsYHQ/s51/Juragan%2BDesa%2BLogo%2BFix-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-f_rINkspcqU/YQxH40Y1q8I/AAAAAAAAJOA/KdpgN-wmnjUSgzCgsBGo0Muas2tq0nwDgCLcBGAsYHQ/s51/Juragan%2BDesa%2BLogo%2BFix-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-f_rINkspcqU/YQxH40Y1q8I/AAAAAAAAJOA/KdpgN-wmnjUSgzCgsBGo0Muas2tq0nwDgCLcBGAsYHQ/s51/Juragan%2BDesa%2BLogo%2BFix-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-f_rINkspcqU/YQxH40Y1q8I/AAAAAAAAJOA/KdpgN-wmnjUSgzCgsBGo0Muas2tq0nwDgCLcBGAsYHQ/s51/Juragan%2BDesa%2BLogo%2BFix-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-f_rINkspcqU/YQxH40Y1q8I/AAAAAAAAJOA/KdpgN-wmnjUSgzCgsBGo0Muas2tq0nwDgCLcBGAsYHQ/s51/Juragan%2BDesa%2BLogo%2BFix-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-f_rINkspcqU/YQxH40Y1q8I/AAAAAAAAJOA/KdpgN-wmnjUSgzCgsBGo0Muas2tq0nwDgCLcBGAsYHQ/s51/Juragan%2BDesa%2BLogo%2BFix-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
